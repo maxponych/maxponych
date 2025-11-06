@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hello, my name is Max
 
-<!--
-**maxponych/maxponych** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm into system-level programming — self-taught.  
+Currently working with **Rust**, **C**, and **C++**.
 
-Here are some ideas to get you started:
+### Projects
+- [**Denali**](https://github.com/maxponych/denali): snapshot-based backup system / version-control hybrid with granular control  
+- [**Laskar**](https://github.com/maxponych/laskar): a learning project exploring OS fundamentals — schedulers, dynamic memory allocation, and user space
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Built by a 16-year-old (2009).  
+PRs are always welcome — I’m here to learn.
